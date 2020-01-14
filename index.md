@@ -1,8 +1,9 @@
 ## Welcome to Xiangyu Duan Personal Webpage
 
-Xiangyu Duan is affiliated with Soochow University.
+Associate Professor
+Soochow University
 
-### Education
+### Research Interests
 
 ### Publications
 
