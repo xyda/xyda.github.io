@@ -1,6 +1,10 @@
-## Welcome to Xiangyu Duan (段湘煜) Personal Website
+## Xiangyu Duan (段湘煜)
 
-Professor, School of Computer Science and Technology, Soochow University
+Professor
+
+School of Computer Science and Technology
+
+Soochow University
 
 Address: Office 417, Ligong Building, Shizi Street #1, Suzhou, 215006, China
 
