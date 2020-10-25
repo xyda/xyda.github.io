@@ -1,9 +1,9 @@
 <table border="0">
   <tr>
-    <td width="25%">
+    <td width="35%">
       <img src="/me.jpg" width="100%">
     </td>
-    <td width="75%">
+    <td width="65%">
       <h1>Professor</h1>
       <p><b>Soochow University</b></p>
       <p><b>Address: Office 407, Ligong Building
