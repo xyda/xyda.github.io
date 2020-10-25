@@ -6,7 +6,7 @@
     <td width="65%">
       <p><b>Professor</b></p>
       <p><b>Soochow University</b></p>
-      <p>Address: Office 407, Ligong Building
+      <p><b>Address:</b> Office 407, Ligong Building
                      Shizi Street #1, Suzhou, 215006, China</p>
     </td>
   </tr>
