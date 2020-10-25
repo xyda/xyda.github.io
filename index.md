@@ -14,7 +14,7 @@
 
 # Biography
 
-I am currently a professor in ![http://scst.suda.edu.cn/main.psp] (School of Computer Science & Technology) at Soochow University. I received my PhD degree from Institute of Automation, Chinese Academy of Sciences in 2008. Before joining Soochow University in 2013 as an associate professor, I was a research scientist in Institute for Infocomm Research, Singapore. My research interests include machine translation, cross-lingual summarization, parsing. I broadly serve in the program committees of major conferences of ACL, AAAI, IJCAI, EMNLP, COLING, and serve as a member of the committee of machine translation, Chinese Information Processing Society of China.
+I am currently a professor in [School of Computer Science & Technology] (http://scst.suda.edu.cn/main.psp) at Soochow University. I received my PhD degree from Institute of Automation, Chinese Academy of Sciences in 2008. Before joining Soochow University in 2013 as an associate professor, I was a research scientist in Institute for Infocomm Research, Singapore. My research interests include machine translation, cross-lingual summarization, parsing. I broadly serve in the program committees of major conferences of ACL, AAAI, IJCAI, EMNLP, COLING, and serve as a member of the committee of machine translation, Chinese Information Processing Society of China.
 
 # Selected Publication
 
