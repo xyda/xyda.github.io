@@ -5,7 +5,7 @@
     </td>
     <td width="65%">
       <p><b>Professor</b></p>
-      <p>Soochow University</p>
+      <p><b>Soochow University</b></p>
       <p>Address: Office 407, Ligong Building
                      Shizi Street #1, Suzhou, 215006, China</p>
     </td>
@@ -18,21 +18,21 @@ I am currently a professor in [School of Computer Science & Technology](http://s
 
 # Selected Publication
 
-**Xiangyu Duan**, Baijun Ji, Hao Jia, Min Tan, Min Zhang, Boxing Chen, Weihua Luo, Yue Zhang: [*Bilingual Dictionary Based Neural Machine Translation without Using Parallel Sentences*](https://www.aclweb.org/anthology/2020.acl-main.143.pdf), ACL 2020.
+**Xiangyu Duan**, Baijun Ji, Hao Jia, Min Tan, Min Zhang, Boxing Chen, Weihua Luo, Yue Zhang: [***Bilingual Dictionary Based Neural Machine Translation without Using Parallel Sentences***](https://www.aclweb.org/anthology/2020.acl-main.143.pdf), ACL 2020.
 
-Baijun Ji, Zhirui Zhang, **Xiangyu Duan***, Min Zhang, Boxing Chen, Weihua Luo: [*Cross-Lingual Pre-Training Based Transfer for Zero-Shot Neural Machine Translation*](https://www.aaai.org/ojs/index.php/AAAI/article/view/5341). AAAI 2020.
+Baijun Ji, Zhirui Zhang, **Xiangyu Duan***, Min Zhang, Boxing Chen, Weihua Luo: [***Cross-Lingual Pre-Training Based Transfer for Zero-Shot Neural Machine Translation***](https://www.aaai.org/ojs/index.php/AAAI/article/view/5341). AAAI 2020.
 
-Kai Song, Xiaoqing Zhou, Heng Yu, Zhongqiang Huang, Yue Zhang, Weihua Luo, **Xiangyu Duan**, Min Zhang: [*Towards Better Word Alignment in Transformer*](https://ieeexplore.ieee.org/document/9103090). IEEE ACM Transaction Audio Speech Language Processing (TASLP), 2020.
+Kai Song, Xiaoqing Zhou, Heng Yu, Zhongqiang Huang, Yue Zhang, Weihua Luo, **Xiangyu Duan**, Min Zhang: [***Towards Better Word Alignment in Transformer***](https://ieeexplore.ieee.org/document/9103090). IEEE ACM Transaction Audio Speech Language Processing (TASLP), 2020.
 
-Kai Song, Kun Wang, Heng Yu, Yue Zhang, Zhongqiang Huang, Weihua Luo, **Xiangyu Duan**, Min Zhang: [*Alignment-Enhanced Transformer for Constraining NMT with Pre-Specified Translations*](https://www.aaai.org/ojs/index.php/AAAI/article/view/6418). AAAI 2020.
+Kai Song, Kun Wang, Heng Yu, Yue Zhang, Zhongqiang Huang, Weihua Luo, **Xiangyu Duan**, Min Zhang: [***Alignment-Enhanced Transformer for Constraining NMT with Pre-Specified Translations***](https://www.aaai.org/ojs/index.php/AAAI/article/view/6418). AAAI 2020.
 
-Huaao Zhang,Shigui Qiu, **Xiangyu Duan***,Min Zhang: [*Token Drop mechanism for Neural Machine Translation*](). Coling  2020(short paper).
+Huaao Zhang,Shigui Qiu, **Xiangyu Duan***,Min Zhang: [***Token Drop mechanism for Neural Machine Translation***](). Coling  2020(short paper).
 
-**Xiangyu Duan**, Mingming Yin, Min Zhang, Boxing Chen, Weihua Luo: [Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention](https://www.aclweb.org/anthology/P19-1305.pdf). ACL  2019.
+**Xiangyu Duan**, Mingming Yin, Min Zhang, Boxing Chen, Weihua Luo: [***Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention***](https://www.aclweb.org/anthology/P19-1305.pdf). ACL  2019.
 
-Xiangyu Duan, Hongfei Yu, Mingming Yin, Min Zhang, Weihua Luo, Yue Zhang: Contrastive Attention Mechanism for Abstractive Sentence Summarization. EMNLP 2019.
+**Xiangyu Duan**, Hongfei Yu, Mingming Yin, Min Zhang, Weihua Luo, Yue Zhang: [***Contrastive Attention Mechanism for Abstractive Sentence Summarization***](https://www.aclweb.org/anthology/D19-1301.pdf). EMNLP 2019.
 
-Hongfei Yu, Xiaoqing Zhou, Xiangyu Duan*, Min Zhang: Layer-Wise De-Training and Re-Training for ConvS2S Machine Translation. ACM Transaction Asian Low Resource Language Information Processing (TALLIP). 2019.
+Hongfei Yu, Xiaoqing Zhou, **Xiangyu Duan***, Min Zhang: Layer-Wise De-Training and Re-Training for ConvS2S Machine Translation. ACM Transaction Asian Low Resource Language Information Processing (TALLIP). 2019.
 
 Xiaoqing Zhou, Xiangyu Duan*, Hongfei Yu, Min Zhang: Iterative Partial Knowledge Distillation for Neural Machine Translation (In Chinese). CCL 2019.
 
