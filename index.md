@@ -1,8 +1,16 @@
-Professor
-
-School of Computer Science and Technology, Soochow University
-
-Address: Office 417, Ligong Building, Shizi Street #1, Suzhou, 215006, China
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Professor</h1>
+      <p><b>Soochow University</b></p>
+      <p><b>Address: Office 407, Ligong Building
+                     Shizi Street #1, Suzhou, 215006, China</b></p>
+    </td>
+    <td width="25%">
+      <img src="/me.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
 # Biography
 
