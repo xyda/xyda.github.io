@@ -4,7 +4,8 @@
       <img src="/me.jpg" width="100%">
     </td>
     <td width="65%">
-      <h1>Professor</h1>
+      %<h1>Professor</h1>
+      <p><b>Professor</b></p>
       <p><b>Soochow University</b></p>
       <p><b>Address: Office 407, Ligong Building
                      Shizi Street #1, Suzhou, 215006, China</b></p>
