@@ -1,5 +1,3 @@
-# Xiangyu Duan (段湘煜)
-
 Professor
 
 School of Computer Science and Technology, Soochow University
