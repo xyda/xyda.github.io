@@ -8,7 +8,7 @@
       <p><b>Soochow University (苏州大学)</b></p>
       <p><b>Address:</b> Office 435, Ligong Building
                      Shizi Street #1, Suzhou, 215006, China</p>
-      <p><b>Email:</b>ab@suda.edu.cn (a: first name, b: last name)</p>
+      <p><b>Email:</b> ab@suda.edu.cn (a: first name, b: last name)</p>
     </td>
   </tr>
 </table>
