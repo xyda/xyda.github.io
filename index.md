@@ -23,7 +23,7 @@ I am currently a professor in [School of Computer Science & Technology](http://s
 
 Baijun Ji, Zhirui Zhang, **Xiangyu Duan***, Min Zhang, Boxing Chen, Weihua Luo: [***Cross-Lingual Pre-Training Based Transfer for Zero-Shot Neural Machine Translation***](https://www.aaai.org/ojs/index.php/AAAI/article/view/5341). AAAI 2020.
 
-Yongchao Deng, Hongfei Yu, Heng Yu, **Xiangyu Duan***, Weihua Luo: [***Factorized Transformer for Multi-Domain Neural Machine Translation***](https://www.aclweb.org/anthology/2020.findings-emnlp.377.pdf). EMNLP 2020 Findings.
+Yongchao Deng, Hongfei Yu, Heng Yu, **Xiangyu Duan**, Weihua Luo: [***Factorized Transformer for Multi-Domain Neural Machine Translation***](https://www.aclweb.org/anthology/2020.findings-emnlp.377.pdf). EMNLP 2020 Findings.
 
 Kai Song, Xiaoqing Zhou, Heng Yu, Zhongqiang Huang, Yue Zhang, Weihua Luo, **Xiangyu Duan**, Min Zhang: [***Towards Better Word Alignment in Transformer***](https://ieeexplore.ieee.org/document/9103090). IEEE ACM Transaction Audio Speech Language Processing (TASLP), 2020.
 
