@@ -117,4 +117,4 @@ Huimin Gong, corpus quality, now in PatSnap, Suzhou
 
 # Demos
 
-[**Machine Translation**](http://192.168.126.129:4999/#/translation) (Accessible for Students from Soochow University)
+[**Machine Translation**](http://hlt.suda.edu.cn/translation/#/translation) 
