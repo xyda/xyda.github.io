@@ -17,7 +17,7 @@
 
 I am currently a professor in [School of Computer Science & Technology](http://scst.suda.edu.cn/main.psp) at [Soochow University](http://eng.suda.edu.cn/). I received my PhD degree from [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) in 2008. Before joining Soochow University in 2013 as an associate professor, I was a research scientist in [Institute for Infocomm Research, Singapore](https://www.a-star.edu.sg/i2r). My research interests include machine translation, cross-lingual summarization, parsing. I broadly serve in the program committees of major conferences of ACL, AAAI, IJCAI, EMNLP, COLING, and serve as a member of the [committee of machine translation, Chinese Information Processing Society of China](http://sc.cipsc.org.cn/mt/index.php/about.html).
 
-# Selected Publication
+# Selected Publications
 
 Jinpeng Zhang, Baijun Ji, Nini Xiao, **Xiangyu Duan***, Min Zhang, Yangbin Shi, Weihua Luo: [***Combining Static Word Embeddings and Contextual Representations for Bilingual Lexicon Induction***](https://aclanthology.org/2021.findings-acl.260.pdf), ACL 2021 Findings.
 
