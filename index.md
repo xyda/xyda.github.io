@@ -87,12 +87,6 @@ Youzheng Wu, Jun Zhao, **Xiangyu Duan**, Bo Xu: [***Research on Question Answeri
 
 ## Current Students:
 
-Baijun Ji, Zero-shot Machine Translation
-
-Qiuyi Ning, Domain-adapted Machine Translation
-
-Xiaojing Shi, Domain-adapted Machine Translation
-
 Hao Jia, Machine Translation, Cross-lingual Applications
 
 Xu Wang, Cross-lingual Applications
@@ -103,7 +97,21 @@ Huaao Zhang, Machine Translation Applications
 
 Shilong Wu, Language Resources
 
+Jinpeng Zhang, NMT multitasks
+
+Renchong Duan, Low resource NMT
+
+Chang Jin, NMT multitasks
+
+Nini Xiao, Low resource NMT
+
 ## Past Students:
+
+Baijun Ji, Zero-shot Machine Translation, now in Tencent, Beijing
+
+Xiaojing Shi, Domain-adapted Machine Translation, now in Sougou, Hangzhou
+
+Qiuyi Ning, Domain-adapted Machine Translation, now in China Unicom, Nanjing
 
 Mingming Yin, cross-lingual summarization, now in Sogou, Hangzhou
 
