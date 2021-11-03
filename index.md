@@ -21,8 +21,6 @@ I am currently a professor in [School of Computer Science & Technology](http://s
 
 Jinpeng Zhang, Baijun Ji, Nini Xiao, **Xiangyu Duan***, Min Zhang, Yangbin Shi, Weihua Luo: [***Combining Static Word Embeddings and Contextual Representations for Bilingual Lexicon Induction***](https://aclanthology.org/2021.findings-acl.260.pdf), ACL 2021 Findings.
 
-Linqing Chen, Junhui Li, Zhengxian Gong, **Xiangyu Duan**, Boxing Chen, Weihua Luo, Min Zhang, Guodong Zhou: [***Improving Context-Aware Neural Machine Translation with Source-side Monolingual Documents***](https://www.ijcai.org/proceedings/2021/0522.pdf), IJCAI 2021.
-
 **Xiangyu Duan**, Baijun Ji, Hao Jia, Min Tan, Min Zhang, Boxing Chen, Weihua Luo, Yue Zhang: [***Bilingual Dictionary Based Neural Machine Translation without Using Parallel Sentences***](https://www.aclweb.org/anthology/2020.acl-main.143.pdf), ACL 2020.
 
 Baijun Ji, Zhirui Zhang, **Xiangyu Duan***, Min Zhang, Boxing Chen, Weihua Luo: [***Cross-Lingual Pre-Training Based Transfer for Zero-Shot Neural Machine Translation***](https://www.aaai.org/ojs/index.php/AAAI/article/view/5341). AAAI 2020.
