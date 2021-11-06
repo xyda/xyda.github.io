@@ -71,13 +71,9 @@ Min Zhang, **Xiangyu Duan**, Vladimir Pervouchine, Haizhou Li: [***Machine Trans
 
 **Xiangyu Duan**, Rafael E. Banchs, Jun Lang, Deyi Xiong, AiTi Aw, Min Zhang, Haizhou Li: [***I2r's machine translation system for IWSLT 2010***](http://www.mt-archive.info/IWSLT-2010-Duan.pdf). IWSLT 2010
 
-**Xiangyu Duan**, Jun Zhao, Bo Xu: [***Ungreedy Methods for Chinese Deterministic Dependency Parsing***](https://www.aaai.org/Papers/AAAI/2007/AAAI07-300.pdf). AAAI Student Session, 2007.
-
 **Xiangyu Duan**, Jun Zhao, Bo Xu: [***Probabilistic Parsing Action Models for Multi-Lingual Dependency Parsing***](https://www.aclweb.org/anthology/D07-1098.pdf). EMNLP-CoNLL 2007.
 
 **Xiangyu Duan**, Jun Zhao, Bo Xu: [***Word Sense Disambiguation through Sememe Labeling***](https://www.ijcai.org/Proceedings/07/Papers/257.pdf). IJCAI 2007.
-
-**Xiangyu Duan**, Jun Zhao, Bo Xu: [***Probabilistic Models for Action-Based Chinese Dependency Parsing***](http://nlpr-web.ia.ac.cn/cip/ZhaoJunPublications/paper/ECML2007.pdf). ECML 2007.
 
 Youzheng Wu, Jun Zhao, **Xiangyu Duan**, Bo Xu: [***Research on Question Answering & Evaluation: A Survey***](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2005&filename=MESS200503000&v=ND6nK0IbThuaWQ5e0N3SrZW8Ie8W5DxhsyrBVHiFaHjQwIcwEnhjmLP7zEPjoplTs) (In Chinese). Journal of Chinese Information Processing. 2005.
 
