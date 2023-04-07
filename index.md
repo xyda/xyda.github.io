@@ -19,6 +19,10 @@ I am currently a professor in [School of Computer Science & Technology](http://s
 
 # Selected Publications
 
+Jinpeng Zhang, Chuanqi Dong, **Xiangyu Duan***, Yuqi Zhang, Min Zhang: [***Third-Party Aligner for Neural Word Alignments***](https://aclanthology.org/2022.findings-emnlp.228.pdf), EMNLP 2022 Findings.
+
+Xin Ge, Ke Wang, Jiayi Wang, Nini Xiao, **Xiangyu Duan**, Yu Zhao, Yuqi Zhang: [***TSMind: Alibaba and Soochow University’s Submission to the WMT22 Translation Suggestion Task***](https://aclanthology.org/2022.wmt-1.123.pdf), WMT 2022.
+
 Jinpeng Zhang, Baijun Ji, Nini Xiao, **Xiangyu Duan***, Min Zhang, Yangbin Shi, Weihua Luo: [***Combining Static Word Embeddings and Contextual Representations for Bilingual Lexicon Induction***](https://aclanthology.org/2021.findings-acl.260.pdf), ACL 2021 Findings.
 
 **Xiangyu Duan**, Baijun Ji, Hao Jia, Min Tan, Min Zhang, Boxing Chen, Weihua Luo, Yue Zhang: [***Bilingual Dictionary Based Neural Machine Translation without Using Parallel Sentences***](https://www.aclweb.org/anthology/2020.acl-main.143.pdf), ACL 2020.
