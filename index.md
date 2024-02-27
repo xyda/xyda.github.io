@@ -19,19 +19,19 @@ I am currently a professor in [School of Computer Science & Technology](http://s
 
 # Selected Publications
 
-Chuanqi Dong, Wenjie Zhou, **Xiangyu Duan**, Yuqi Zhang and Min Zhang: Multimodal Cross-lingual Phrase Retrieval, COLING 2024.
+Chuanqi Dong, Wenjie Zhou, **Xiangyu Duan***, Yuqi Zhang and Min Zhang: Multimodal Cross-lingual Phrase Retrieval, COLING 2024.
 
-Baijun Ji, **Xiangyu Duan**, Zhenyu Qiu, Tong Zhang, Junhui Li, Hao Yang and Min Zhang: Submodular-based In-context Example Selection for LLMs-based Machine Translation, COLING 2024.
+Baijun Ji, **Xiangyu Duan***, Zhenyu Qiu, Tong Zhang, Junhui Li, Hao Yang and Min Zhang: Submodular-based In-context Example Selection for LLMs-based Machine Translation, COLING 2024.
 
-Wenjie Zhou, Qiang Wang, Mingzhou Xu, MING CHEN and Xiangyu Duan: Revisiting the Self-Consistency Challenges in Multi-Choice Question Formats for Large Language Model Evaluation, Short Paper, COLING 2024.
+Wenjie Zhou, Qiang Wang, Mingzhou Xu, MING CHEN and **Xiangyu Duan**: Revisiting the Self-Consistency Challenges in Multi-Choice Question Formats for Large Language Model Evaluation, Short Paper, COLING 2024.
 
-Jinpeng Zhang, Nini Xiao, Ke Wang, Chuanqi Dong, **Xiangyu Duan**, Yuqi Zhang, Min Zhang: [***Disambiguated Lexically Constrained Neural Machine Translation***](https://aclanthology.org/2023.findings-acl.673.pdf), ACL 2023 Findings.
+Jinpeng Zhang, Nini Xiao, Ke Wang, Chuanqi Dong, **Xiangyu Duan***, Yuqi Zhang, Min Zhang: [***Disambiguated Lexically Constrained Neural Machine Translation***](https://aclanthology.org/2023.findings-acl.673.pdf), ACL 2023 Findings.
 
-Jinpeng Zhang, Chuanqi Dong, **Xiangyu Duan**, Yuqi Zhang, Min Zhang: [***Third-Party Aligner for Neural Word Alignments***](https://aclanthology.org/2022.findings-emnlp.228.pdf), EMNLP 2022 Findings.
+Jinpeng Zhang, Chuanqi Dong, **Xiangyu Duan***, Yuqi Zhang, Min Zhang: [***Third-Party Aligner for Neural Word Alignments***](https://aclanthology.org/2022.findings-emnlp.228.pdf), EMNLP 2022 Findings.
 
 Xin Ge, Ke Wang, Jiayi Wang, Nini Xiao, **Xiangyu Duan**, Yu Zhao, Yuqi Zhang: [***TSMind: Alibaba and Soochow University’s Submission to the WMT22 Translation Suggestion Task***](https://aclanthology.org/2022.wmt-1.123.pdf), WMT 2022.
 
-Jinpeng Zhang, Baijun Ji, Nini Xiao, **Xiangyu Duan**, Min Zhang, Yangbin Shi, Weihua Luo: [***Combining Static Word Embeddings and Contextual Representations for Bilingual Lexicon Induction***](https://aclanthology.org/2021.findings-acl.260.pdf), ACL 2021 Findings.
+Jinpeng Zhang, Baijun Ji, Nini Xiao, **Xiangyu Duan***, Min Zhang, Yangbin Shi, Weihua Luo: [***Combining Static Word Embeddings and Contextual Representations for Bilingual Lexicon Induction***](https://aclanthology.org/2021.findings-acl.260.pdf), ACL 2021 Findings.
 
 **Xiangyu Duan**, Baijun Ji, Hao Jia, Min Tan, Min Zhang, Boxing Chen, Weihua Luo, Yue Zhang: [***Bilingual Dictionary Based Neural Machine Translation without Using Parallel Sentences***](https://www.aclweb.org/anthology/2020.acl-main.143.pdf), ACL 2020.
 
