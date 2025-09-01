@@ -19,11 +19,11 @@ I am currently a professor in [School of Computer Science & Technology](http://s
 
 # Selected Publications
 
-Zhi Zhou, Sirui Miao, **Xiangyu Duan**, Hao Yang, Min Zhang: [***Basic Reading Distillation***](https://aclanthology.org/2025.acl-long.1472.pdf), ACL 2025.
+Zhi Zhou, Sirui Miao, **Xiangyu Duan***, Hao Yang, Min Zhang: [***Basic Reading Distillation***](https://aclanthology.org/2025.acl-long.1472.pdf), ACL 2025.
 
-Ante Wang, Linfeng Song, Ye Tian, Dian Yu, Haitao Mi, Xiangyu Duan, Zhaopeng Tu, Jinsong Su, Dong Yu: [***Don’t Get Lost in the Trees: Streamlining LLM Reasoning by Overcoming Tree Search Exploration Pitfalls***](https://aclanthology.org/2025.acl-long.1167.pdf), ACL 2025.
+Ante Wang, Linfeng Song, Ye Tian, Dian Yu, Haitao Mi, **Xiangyu Duan**, Zhaopeng Tu, Jinsong Su, Dong Yu: [***Don’t Get Lost in the Trees: Streamlining LLM Reasoning by Overcoming Tree Search Exploration Pitfalls***](https://aclanthology.org/2025.acl-long.1167.pdf), ACL 2025.
 
-Baijun Ji, **Xiangyu Duan**, Yue Zhang, Kaixin Wu, Min Zhang: [***Zero-Shot Prompting for LLM-Based Machine Translation Using In-Domain Target Sentences***](https://ieeexplore.ieee.org/document/10806871), IEEE ACM Transaction Audio Speech Language Processing (TASLP), 2024.
+Baijun Ji, **Xiangyu Duan***, Yue Zhang, Kaixin Wu, Min Zhang: [***Zero-Shot Prompting for LLM-Based Machine Translation Using In-Domain Target Sentences***](https://ieeexplore.ieee.org/document/10806871), IEEE ACM Transaction Audio Speech Language Processing (TASLP), 2024.
 
 Chuanqi Dong, Wenjie Zhou, **Xiangyu Duan***, Yuqi Zhang and Min Zhang: [***Multimodal Cross-lingual Phrase Retrieval***](https://aclanthology.org/2024.lrec-main.1040.pdf), COLING 2024.
 
