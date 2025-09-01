@@ -19,11 +19,17 @@ I am currently a professor in [School of Computer Science & Technology](http://s
 
 # Selected Publications
 
-Chuanqi Dong, Wenjie Zhou, **Xiangyu Duan***, Yuqi Zhang and Min Zhang: Multimodal Cross-lingual Phrase Retrieval, COLING 2024.
+Zhi Zhou, Sirui Miao, **Xiangyu Duan**, Hao Yang, Min Zhang: [***Basic Reading Distillation***](https://aclanthology.org/2025.acl-long.1472.pdf), ACL 2025.
 
-Baijun Ji, **Xiangyu Duan***, Zhenyu Qiu, Tong Zhang, Junhui Li, Hao Yang and Min Zhang: Submodular-based In-context Example Selection for LLMs-based Machine Translation, COLING 2024.
+Ante Wang, Linfeng Song, Ye Tian, Dian Yu, Haitao Mi, Xiangyu Duan, Zhaopeng Tu, Jinsong Su, Dong Yu: [***Don’t Get Lost in the Trees: Streamlining LLM Reasoning by Overcoming Tree Search Exploration Pitfalls***](https://aclanthology.org/2025.acl-long.1167.pdf), ACL 2025.
 
-Wenjie Zhou, Qiang Wang, Mingzhou Xu, MING CHEN and **Xiangyu Duan**: Revisiting the Self-Consistency Challenges in Multi-Choice Question Formats for Large Language Model Evaluation, Short Paper, COLING 2024.
+Baijun Ji, **Xiangyu Duan**, Yue Zhang, Kaixin Wu, Min Zhang: [***Zero-Shot Prompting for LLM-Based Machine Translation Using In-Domain Target Sentences***](https://ieeexplore.ieee.org/document/10806871), IEEE ACM Transaction Audio Speech Language Processing (TASLP), 2024.
+
+Chuanqi Dong, Wenjie Zhou, **Xiangyu Duan***, Yuqi Zhang and Min Zhang: [***Multimodal Cross-lingual Phrase Retrieval***](https://aclanthology.org/2024.lrec-main.1040.pdf), COLING 2024.
+
+Baijun Ji, **Xiangyu Duan***, Zhenyu Qiu, Tong Zhang, Junhui Li, Hao Yang and Min Zhang: [***Submodular-based In-context Example Selection for LLMs-based Machine Translation***](https://aclanthology.org/2024.lrec-main.1337.pdf), COLING 2024.
+
+Wenjie Zhou, Qiang Wang, Mingzhou Xu, MING CHEN and **Xiangyu Duan**: [***Revisiting the Self-Consistency Challenges in Multi-Choice Question Formats for Large Language Model Evaluation***](https://aclanthology.org/2024.lrec-main.1229.pdf), Short Paper, COLING 2024.
 
 Jinpeng Zhang, Nini Xiao, Ke Wang, Chuanqi Dong, **Xiangyu Duan***, Yuqi Zhang, Min Zhang: [***Disambiguated Lexically Constrained Neural Machine Translation***](https://aclanthology.org/2023.findings-acl.673.pdf), ACL 2023 Findings.
 
