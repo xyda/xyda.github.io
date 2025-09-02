@@ -21,7 +21,7 @@ I am currently a professor in [School of Computer Science & Technology](http://s
 
 - Every prediction by LLMs should be able to be grounded for the trustworthiness. We check this ability in translation error grounding task, and find that in many cases, LLMs do not know why the human labeled translation errors are errorneous, then the corrections by LLMs are not trustworthy. The work is published in EMNLP 2025 Findings.
 
-- In comparison to training the next token prediction in LLMs pretraining, we think that basic reading eduction on each text similar to human education is more important. We apply this viewpoint to the distillation task. The work is published in [***ACL 2025***](https://aclanthology.org/2025.acl-long.1472.pdf).
+- In comparison to training the next token prediction in LLMs pretraining, we think that basic reading education on each text similar to human education is more important. We apply this viewpoint to the distillation task. The work is published in [***ACL 2025***](https://aclanthology.org/2025.acl-long.1472.pdf).
 
 # Selected Publications
 
