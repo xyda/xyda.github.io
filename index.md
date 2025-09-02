@@ -17,6 +17,12 @@
 
 I am currently a professor in [School of Computer Science & Technology](http://scst.suda.edu.cn/main.psp) at [Soochow University](http://eng.suda.edu.cn/). I received my PhD degree from [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/) in 2008. Before joining Soochow University in 2013 as an associate professor, I was a research scientist in [Institute for Infocomm Research, Singapore](https://www.a-star.edu.sg/i2r). My research interests include machine translation, cross-lingual summarization, parsing. I broadly serve in the program committees of major conferences of ACL, AAAI, IJCAI, EMNLP, COLING, and serve as a member of the [committee of machine translation, Chinese Information Processing Society of China](http://sc.cipsc.org.cn/mt/index.php/about.html).
 
+# Recent Endeavors
+
+- Every prediction by LLMs should be able to be grounded for the trustworthiness. We check this ability in translation error grounding task, and find that in many cases, LLMs do not know why the human labeled translation errors are errorneous, then the corrections by LLMs are not trustworthy. The work is published in EMNLP 2025 Findings.
+
+- In comparison to training the next token prediction in LLMs pretraining, we think that basic reading eduction on each text similar to human education is more important. We apply this viewpoint to the distillation task. The work is published in [***ACL 2025***](https://aclanthology.org/2025.acl-long.1472.pdf).
+
 # Selected Publications
 
 Zhi Zhou, Sirui Miao, **Xiangyu Duan***, Hao Yang, Min Zhang: [***Basic Reading Distillation***](https://aclanthology.org/2025.acl-long.1472.pdf), ACL 2025.
