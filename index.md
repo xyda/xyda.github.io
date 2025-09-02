@@ -145,6 +145,3 @@ Qi Wang, convolution on attention heatmap of NMT, now in China Merchants Bank, S
 
 Huimin Gong, corpus quality, now in PatSnap, Suzhou
 
-# Demos
-
-[**Chinese-English Machine Translation**](http://hlt.suda.edu.cn/translation/#/translation) 
