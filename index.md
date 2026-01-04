@@ -19,11 +19,13 @@ I am currently a professor in [School of Computer Science & Technology](http://s
 
 # Recent Endeavors
 
-- Every prediction by LLMs should be able to be grounded for the trustworthiness. We check this ability in translation error grounding task, and find that in many cases, LLMs do not know why the human labeled errors are errorneous translations, then the corrections by LLMs are not trustworthy. The work is published in EMNLP 2025 Findings.
+- Every prediction by LLMs should be able to be grounded for the trustworthiness. We check this ability in translation error grounding task, and find that in many cases, LLMs do not know why the human labeled errors are errorneous translations, then the corrections by LLMs are not trustworthy. The work is published in [***EMNLP 2025 Findings***](https://aclanthology.org/2025.findings-emnlp.1299.pdf).
 
 - In comparison to training the next token prediction in LLMs pretraining, we think that basic reading education on each text similar to human education is more important. We apply this viewpoint to the distillation task. The work is published in [***ACL 2025***](https://aclanthology.org/2025.acl-long.1472.pdf).
 
 # Selected Publications
+
+Sujin Chen, Zixuan Zhou, Kang Wang, **Xiangyu Duan***, Wanqun Zhang, Hao Yang, Jinsong Su, Min Zhang: [***An Evaluation Resource for Grounding Translation Errors***](https://aclanthology.org/2025.findings-emnlp.1299.pdf), EMNLP 2025 Findings.
 
 Zhi Zhou, Sirui Miao, **Xiangyu Duan***, Hao Yang, Min Zhang: [***Basic Reading Distillation***](https://aclanthology.org/2025.acl-long.1472.pdf), ACL 2025.
 
