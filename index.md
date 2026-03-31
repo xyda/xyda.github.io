@@ -23,6 +23,8 @@ I am currently a professor in [School of Computer Science & Technology](http://s
 
 - In comparison to training the next token prediction in LLMs pretraining, we think that basic reading education on each text similar to human education is more important. We apply this viewpoint to the distillation task. The work is published in [***ACL 2025***](https://aclanthology.org/2025.acl-long.1472.pdf).
 
+- A micro science fiction in Chinese: [***Reward World***] (https://mp.weixin.qq.com/s/sBgNyYG75CsCfPHKzGQr8A)
+
 # Selected Publications
 
 Sujin Chen, Zixuan Zhou, Kang Wang, **Xiangyu Duan***, Wanqun Zhang, Hao Yang, Jinsong Su, Min Zhang: [***An Evaluation Resource for Grounding Translation Errors***](https://aclanthology.org/2025.findings-emnlp.1299.pdf), EMNLP 2025 Findings.
