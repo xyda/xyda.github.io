@@ -23,7 +23,7 @@ I am currently a professor in [School of Computer Science & Technology](http://s
 
 - In comparison to training the next token prediction in LLMs pretraining, we think that basic reading education on each text similar to human education is more important. We apply this viewpoint to the distillation task. The work is published in [***ACL 2025***](https://aclanthology.org/2025.acl-long.1472.pdf).
 
-- The nature of learning is gaining rewards. Based on this viewpoint, I wrote a a micro science fiction about technology and society co-evolvement (in Chinese): [***Reward World***](https://mp.weixin.qq.com/s/sBgNyYG75CsCfPHKzGQr8A)
+- The nature of learning is gaining rewards. Based on this viewpoint, I wrote a a micro science fiction about technology and society co-evolvement (in Chinese): [***Reward World***](https://mp.weixin.qq.com/s/sBgNyYG75CsCfPHKzGQr8A).
 
 # Selected Publications
 
